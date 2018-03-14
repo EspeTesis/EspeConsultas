@@ -1,0 +1,28 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>{{ pageTitle }}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+<ion-content>
+
+  <form [formGroup]="form" *ngIf="settingsReady">
+    <ion-list *ngIf="page == 'main'">
+      <ion-item>
+        <ion-label>"Usted no ha pagado su matricula<br>acerquese lo antes posible a<br> las oficinas principales.<br> Gracias"</ion-label>
+       
+      </ion-item>
+
+      <ion-item>
+        <ion-label>"Usted tiene un impedimento<br>en la asigantura de Algebra 1<br> comuniquese con su docente.<br>Gracias"</ion-label>
+       
+      </ion-item>
+
+     </ion-list>
+
+    
+  </form>
+
+</ion-content>

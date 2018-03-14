@@ -1,0 +1,49 @@
+{
+  "NAME": "Nombre",
+  "PASSWORD": "Contraseña",
+  "EMAIL": "Id",
+  "LOGIN": "Iniciar sesión",
+  "SIGNUP": "Registrarse",
+
+  "TAB1_TITLE": "Opciones",
+  "TAB2_TITLE": "Buscar",
+  "TAB3_TITLE": "Notificaciones",
+
+  "MAP_TITLE": "Mapa",
+
+  "TUTORIAL_SLIDE1_TITLE": "Bienvenido/a",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "El aplicativo movil <b>CONESPENET</b> es una manera de facilitar tus procesos académicos",
+
+  "TUTORIAL_SLIDE2_TITLE": "Para qué es CONESPENET",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Con esta aplicación podras ahorrar tiempo en la matriculacion , facilitar procesos , elegir tu horario de clases ,etc.",
+
+  "TUTORIAL_SLIDE3_TITLE": "Empezando",
+  "TUTORIAL_SLIDE3_DESCRIPTION": "Esto esta por comenzar preparate.",
+
+  "SETTINGS_TITLE": "Notificación",
+  "SETTINGS_OPTION1": "Opción 1",
+  "SETTINGS_OPTION2": "Usted no ha pagado su matricula acerquese lo antes posible a las oficinas principales. Gracias",
+  "SETTINGS_OPTION3": "Usted tiene un impedimento en la asigantura de Algebra 1 acerquese lo antes posible con su docente",
+  "SETTINGS_OPTION4": "Opción 4",
+
+  "SETTINGS_PAGE_PROFILE": "Editar Perfil",
+
+  "WELCOME_TITLE": "Bienvenido/a",
+  "WELCOME_INTRO": "Bienvenido a la Aplicación CONFIRMAR",
+
+  "LOGIN_TITLE": "Iniciar sesión",
+  "LOGIN_ERROR": "Ingreso Exitoso",
+  "LOGIN_BUTTON": "Ingresar",
+  "SIGNUP_TITLE": "Registro",
+  "SIGNUP_ERROR": "No se ha podido crear la cuenta. Por favor revisa la información de la cuenta e inténtalo de nuevo.",
+  "SIGNUP_BUTTON": "Registrarse",
+
+  "LIST_MASTER_TITLE": "Menu",
+
+  "ITEM_CREATE_TITLE": "Nuevo Item",
+  "ITEM_CREATE_CHOOSE_IMAGE": "Añadir Imagen",
+
+  "CARDS_TITLE": "Social",
+
+  "SEARCH_TITLE": "Buscar"
+}
