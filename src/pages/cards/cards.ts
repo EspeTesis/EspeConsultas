@@ -13,30 +13,30 @@ export class CardsPage {
     this.cardItems = [
       {
         user: {
-          avatar: 'assets/img/marty-avatar.png',
-          name: 'Marty McFly'
+          avatar: 'assets/img/espe1.jpg',
+          name: 'Matriculas'
         },
-        date: 'November 5, 1955',
-        image: 'assets/img/advance-card-bttf.png',
-        content: 'Wait a minute. Wait a minute, Doc. Uhhh... Are you telling me that you built a time machine... out of a DeLorean?! Whoa. This is heavy.',
+        date: 'Abril 5, 2018',
+        image: 'assets/img/logoespe.png',
+        content: 'Se comunica que el valor de su matricula tiene que pagar hasta el 12 de Mayo del 2018 en Tesoreria. Gracias por su atención',
       },
       {
         user: {
-          avatar: 'assets/img/sarah-avatar.png.jpeg',
-          name: 'Sarah Connor'
+          avatar: 'assets/img/espe2.jpg',
+          name: 'Créditos'
         },
-        date: 'May 12, 1984',
-        image: 'assets/img/advance-card-tmntr.jpg',
-        content: 'I face the unknown future, with a sense of hope. Because if a machine, a Terminator, can learn the value of human life, maybe we can too.'
+        date: 'Abril 8, 2018',
+        image: 'assets/img/logoespe.png',
+        content: 'Usted ha llenado todos los créditos correspondientes a este período.'
       },
       {
         user: {
-          avatar: 'assets/img/ian-avatar.png',
-          name: 'Dr. Ian Malcolm'
+          avatar: 'assets/img/espe3.png',
+          name: 'Información'
         },
-        date: 'June 28, 1990',
-        image: 'assets/img/advance-card-jp.jpg',
-        content: 'Your scientists were so preoccupied with whether or not they could, that they didn\'t stop to think if they should.'
+        date: 'Abril 13, 2018',
+        image: 'assets/img/logoespe.png',
+        content: 'Se comunica a los estudiantes acercarse el día Lunes 12 de Mayo a la UTIC para información general.'
       }
     ];
 
