@@ -32,7 +32,7 @@ export class TutorialPage {
         console.log('Loaded values', values);
         this.slides = [
           {
-            title: "POR DEFINIR",
+            title: "EspeCon",
             description:"Aplicativo Móvil de Consulta" ,
             image: 'assets/img/espe1.jpg',
           },

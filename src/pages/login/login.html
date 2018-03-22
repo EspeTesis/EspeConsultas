@@ -12,8 +12,8 @@
     <ion-list>
 
       <ion-item>
-        <ion-label fixed>{{ 'EMAIL' | translate }}</ion-label>
-        <ion-input type="email" [(ngModel)]="account.email" name="email"></ion-input>
+        <ion-label fixed>{{ 'ID' | translate }}</ion-label>
+        <ion-input type="id" [(ngModel)]="account.id" name="id"></ion-input>
       </ion-item>
   
       <!--
@@ -29,6 +29,7 @@
         <ion-label fixed>{{ 'PASSWORD' | translate }}</ion-label>
         <ion-input type="password" [(ngModel)]="account.password" name="password"></ion-input>
       </ion-item>
+     
 
       <div padding>
         <button ion-button color="dark" block>{{ 'LOGIN_BUTTON' | translate }}</button>

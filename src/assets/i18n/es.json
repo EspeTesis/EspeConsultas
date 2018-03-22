@@ -1,7 +1,8 @@
 {
   "NAME": "Nombre",
   "PASSWORD": "Contraseña",
-  "EMAIL": "Id",
+  "PASSWORD2": "Repetir Contraseña",
+  "ID": "Id Usuario",
   "LOGIN": "Iniciar sesión",
   "SIGNUP": "Registrarse",
 
